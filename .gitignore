@@ -1,6 +1,10 @@
 # Created by https://www.gitignore.io/api/c,vim
 # Edit at https://www.gitignore.io/?templates=c,vim
 
+### kilo ###
+# kilo build output
+kilo
+
 ### C ###
 # Prerequisites
 *.d
